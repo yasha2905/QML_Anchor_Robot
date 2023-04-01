@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Robot.qml</file>
+        <file>Block.qml</file>
+    </qresource>
+</RCC>
